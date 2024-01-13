@@ -1,0 +1,1 @@
+@cp notebooks/Template.ipynb notebooks/%1.ipynb
