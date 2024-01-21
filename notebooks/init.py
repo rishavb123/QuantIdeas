@@ -13,3 +13,4 @@ import datetime
 from util import *
 
 pd.options.mode.chained_assignment = None  # default='warn'
+plt.style.use("dark_background")
